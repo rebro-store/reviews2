@@ -2,7 +2,7 @@ const stores = {
     1: {
         name: "Rebro",
         address: "Бурхана Шахиди, 9а",
-        google: "https://clck.ru/39sCPR",
+        google: "https://clck.su/google-rebrostore",
         yandex: "https://clck.ru/3LGvWR",
         gis: "https://go.2gis.com/U6mCW"
     },
@@ -10,7 +10,7 @@ const stores = {
     2: {
         name: "Rebro",
         address: "2-я Юго-Западная, 7",
-        google: "https://clck.ru/39sCPR",
+        google: "https://clck.su/google-rebro-store",
         yandex: "https://clck.ru/3KCzHp",
         gis: "https://go.2gis.com/0lif2"
     }
